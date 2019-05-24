@@ -1,0 +1,44 @@
+<ul class="graph-diagram-markup" data-internal-scale="0.35" data-external-scale="1">
+  <li class="node" data-node-id="0" data-x="0" data-y="0">
+    <span class="caption">Inicio</span>
+  </li>
+  <li class="node" data-node-id="1" data-x="708.7967891483516" data-y="-661.184104873559">
+    <span class="caption">Rosa</span><dl class="properties"><dt>weight</dt><dd>amor + mas + normal + menosde20 + rojo</dd></dl></li>
+  <li class="node" data-node-id="2" data-x="1196.0029443546673" data-y="-219.7515760370733">
+    <span class="caption">Girasol</span><dl class="properties"><dt>weight</dt><dd>amistad + menosde6 + normal + amarillo</dd></dl></li>
+  <li class="node" data-node-id="3" data-x="-2002.022574535278" data-y="-290.1069912563436">
+    <span class="caption">Rosa Blanca</span><dl class="properties"><dt>weight</dt><dd>religioso + mas + normal + masde20</dd></dl></li>
+  <li class="node" data-node-id="4" data-x="-694.17870575527" data-y="-1181.6302173542526">
+    <span class="caption">Tulipan</span><dl class="properties"><dt>weight</dt><dd>amor + menosde6 + normal + todosColores</dd></dl></li>
+  <li class="node" data-node-id="5" data-x="-163.6737103475072" data-y="-1523.5241128145203">
+    <span class="caption">Lirio</span><dl class="properties"><dt>weight</dt><dd>religioso + menosdeunano + normal +  todosColores</dd></dl></li>
+  <li class="node" data-node-id="6" data-x="-1437.3902585679948" data-y="283.12839894667474">
+    <span class="caption">Cactus</span><dl class="properties"><dt>weight</dt><dd>amistad + menosde6 + facil + verde</dd></dl></li>
+  <li class="node" data-node-id="7" data-x="-1069.549060029804" data-y="-684.9090039954996">
+    <span class="caption">Suculenta</span><dl class="properties"><dt>weight</dt><dd>amistad + menosde6 + facil + verde</dd></dl></li>
+  <li class="node" data-node-id="8" data-x="525.4227081305154" data-y="-1134.5985516242263">
+    <span class="caption">Agapanto</span><dl class="properties"><dt>weight</dt><dd>formal + menosde5 + dificil + exotico</dd></dl></li>
+  <li class="node" data-node-id="9" data-x="1334.6260989871516" data-y="434.87784770749636">
+    <span class="caption">Venus flytrap</span><dl class="properties"><dt>weight</dt><dd>amistad + menosde5 + dificil + exotico</dd></dl></li>
+  <li class="node" data-node-id="10" data-x="761.6502817981647" data-y="782.647039757906">
+    <span class="caption">Drosera</span><dl class="properties"><dt>weight</dt><dd>amistad + menosde5 + dificil + exotico</dd></dl></li>
+  <li class="node" data-node-id="11" data-x="255.16152650262427" data-y="1529.1962181975578">
+    <span class="caption">Helecho</span><dl class="properties"><dt>weight</dt><dd>otra + menosdeunano + dificil + verde</dd></dl></li>
+  <li class="node" data-node-id="12" data-x="-747.6398830053945" data-y="1237.7334265079141">
+    <span class="caption">Orquidea</span><dl class="properties"><dt>weight</dt><dd>amor + mas + dificil + todosColores</dd></dl></li>
+  <li class="node" data-node-id="13" data-x="-1348.3971014922517" data-y="884.3839259186203">
+    <span class="caption">Pascua</span><dl class="properties"><dt>weight</dt><dd>amistad + menosdeunano + normal + rojo</dd></dl></li>
+  <li class="relationship" data-from="0" data-to="1"></li>
+  <li class="relationship" data-from="0" data-to="2"></li>
+  <li class="relationship" data-from="0" data-to="3"></li>
+  <li class="relationship" data-from="0" data-to="4"></li>
+  <li class="relationship" data-from="0" data-to="5"></li>
+  <li class="relationship" data-from="0" data-to="6"></li>
+  <li class="relationship" data-from="0" data-to="7"></li>
+  <li class="relationship" data-from="0" data-to="8"></li>
+  <li class="relationship" data-from="0" data-to="9"></li>
+  <li class="relationship" data-from="0" data-to="10"></li>
+  <li class="relationship" data-from="0" data-to="11"></li>
+  <li class="relationship" data-from="0" data-to="12"></li>
+  <li class="relationship" data-from="0" data-to="13"></li>
+</ul>
